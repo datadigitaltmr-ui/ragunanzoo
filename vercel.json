@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ragunanzoo.go.id",
+      "permanent": true
+    }
+  ]
+}
